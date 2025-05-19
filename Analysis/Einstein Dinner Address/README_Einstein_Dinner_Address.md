@@ -1,7 +1,7 @@
 
 # Einstein_Address.ipynb 
 
-🕊️ *"The destiny of civilized humanity depends more than ever on the moral forces it is capable of generating."* — Albert Einstein
+*"The war is won, but the peace is not."* — Albert Einstein
 ## Overview
 
 This Jupyter Notebook explores Albert Einstein’s powerful speech delivered at the **5th Nobel Anniversary Dinner on December 10, 1945**. The speech, given shortly after the end of World War II and the atomic bombings, is a reflection on the ethical responsibilities of scientists, the dangers of geopolitical division, and the need for global peace and justice.
